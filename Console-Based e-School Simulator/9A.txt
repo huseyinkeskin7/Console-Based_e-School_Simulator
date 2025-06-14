@@ -1,0 +1,3 @@
+900,Suleyman,Cakir,Erkek
+901,Polat,Alemdar,Erkek
+902,Elif,Eylul,Kiz

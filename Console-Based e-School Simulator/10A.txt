@@ -1,0 +1,3 @@
+999,Ziya,Yilmaz,Erkek
+367,Husrev,Bekiroglu,Erkek
+343,Meral,Yilmaz,Kiz

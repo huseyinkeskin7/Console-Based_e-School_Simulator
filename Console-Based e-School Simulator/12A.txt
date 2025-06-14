@@ -1,0 +1,3 @@
+100,Metin,Sen,Erkek
+110,Mert,Yildiz,Erkek
+101,Melike,Senturk,Kiz
